@@ -1,7 +1,5 @@
 #include <RcppArmadillo.h>
 
-
-
 // gini calculates the gini index of the vector x. If corr = true,
 // the gini is corrected for small sample bias. Code is based off
 // of the gini function contained in the R 'ineq' package
