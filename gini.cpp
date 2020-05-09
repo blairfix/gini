@@ -5,7 +5,6 @@
 // of the gini function contained in the R 'ineq' package
 
 // [[Rcpp::depends(RcppArmadillo)]]
-// [[Rcpp::plugins(cpp11)]]
 // [[Rcpp::export]]
 
 
